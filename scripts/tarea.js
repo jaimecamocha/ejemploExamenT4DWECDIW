@@ -1,7 +1,7 @@
 // Jaime Fernández Calvo
-//
+// https://github.com/jaimecamocha/ejemploExamenT4DWECDIW.git
 
-class Tarea{
+export class Tarea{
     constructor(id, descripcion){
         this.id = id;
         this.descripcion = descripcion;
